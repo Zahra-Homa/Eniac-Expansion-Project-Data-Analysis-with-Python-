@@ -4,7 +4,7 @@
 
 This project analyzes **Magist’s e-commerce data** to help **Eniac**, a European online marketplace for Apple-compatible accessories, evaluate the opportunity of expanding into the **Brazilian market**.
 
-Originally completed during a Data Analytics Bootcamp (using MySQL), this version re-implements the project in **Python** to perform the same analysis and generate clear data-driven insights.
+Originally completed during a Data Analytics Bootcamp (using MySQL and Tableau), this version re-implements the project in **Python** to perform the same analysis and generate clear data-driven insights.
 
 ---
 
@@ -17,8 +17,9 @@ The main business questions are:
 
 1. Is **Magist** a suitable partner for Eniac’s **high-end tech catalog**?  
 2. Are **Magist’s delivery services** fast and reliable enough for Eniac’s customer standards?
-
+   
 Additional analytical questions were examined, including revenue trends, product variety and pricing, sales distribution across categories, delivery performance, and regional concentration of customers and sellers.
+
 ---
 
 ## Data
@@ -53,7 +54,7 @@ The dataset was provided as part of the **Data Analytics Bootcamp on WBS Coding 
 
 3. 95.8% of orders are delivered on schedule, reflecting reliable delivery operations.
 
-4. However, most deliveries take up to 7 days, which may not meet current customer expectations for fast shipping.
+4. However, most deliveries take up to 7 days and the average delivery time is 10 days, which may not meet current customer expectations for fast shipping nowadays.
 
 
 ## Conclusion
@@ -61,4 +62,5 @@ The dataset was provided as part of the **Data Analytics Bootcamp on WBS Coding 
 Magist, with its current potential, could indeed be a valuable partner for Eniac. However, this partnership will likely require time and continuous effort to fully mature. If Eniac is willing to invest the necessary time and resources, the collaboration could yield positive outcomes in the long run.
 
 It’s important to note that this analysis is ongoing, and the next phase will focus on the geographic concentration of Magist’s sales. This will help refine our conclusions further by identifying regional sales patterns and potential market strengths.
+
 
